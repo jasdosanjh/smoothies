@@ -20,7 +20,7 @@ export default {
   data () {
     return {
       smoothies: [
-        { title: 'Protein Brew', slug: 'protein-brew', ingredients: ['bananas', 'whey protein', 'milk'], id: '1'},
+        { title: 'Protein Brew', slug: 'protein-brew', ingredients: ['banana', 'whey protein', 'milk'], id: '1'},
         { title: 'Morning Boost', slug: 'morning-boost', ingredients: ['mango', 'lime', 'juice'], id: '2'}
       ] 
     }
