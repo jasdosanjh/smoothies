@@ -1,21 +1,13 @@
-# smoothies
+## Smoothies
 
-> A Vue.js project
+Smoothies is a simple smoothie recipe web app made using Vue.js.
 
-## Build Setup
+## Live Demo:
+https://smoothies-79a47.firebaseapp.com/#/
 
-``` bash
-# install dependencies
-npm install
+## Built With
 
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+* HTML5
+* CSS3 (Materialize)
+* Vue.js
+* Google Firebase
